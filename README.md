@@ -1,5 +1,3 @@
-<h2>*This project reflects the culmination of both the knowledge gained from online resources/Internet and the practical expertise acquired through hands-on experience in the IT industry.</h2>
-
 [![Screenshot-2024-01-19-081013.png](https://i.postimg.cc/prbQpjmv/Screenshot-2024-01-19-081013.png)](https://postimg.cc/k6sRHBNY)
 
 <h1>Setting Up the Bare-Metal System:</h1>
